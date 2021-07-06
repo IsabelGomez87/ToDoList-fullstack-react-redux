@@ -1,6 +1,11 @@
 # To-Do List
 
-Complete To-Do list that allows you to create, delete and edit tasks.
+<p align="center">
+<img width="678" alt="Captura de pantalla 2021-07-06 a las 13 31 25" src="https://user-images.githubusercontent.com/75249490/124593052-78ce2500-de5e-11eb-8ce0-f40aeaf9f936.png">
+  </p>
+
+
+Complete To-Do list that allows you to create, delete, edit and mark tasks as done.
 
 Using React Redux with JS for the frontend and Node.js, Express, MongoDB and Mongoose for the backend. Testing with Jest.
 

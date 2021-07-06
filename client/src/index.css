@@ -1,0 +1,23 @@
+*, 
+*::after, 
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    background-color: #eeeeee;
+    color: #303841;
+    list-style: none;
+}
+
+header, main {
+    text-align: center;
+}
+
+header {
+  padding: 20px 0
+}

@@ -1,4 +1,3 @@
-/* eslint-disable no-debugger */
 const express = require('express');
 const cors = require('cors');
 const chalk = require('chalk');
@@ -14,7 +13,7 @@ connect(
   process.env.DDBB_URL,
   { useNewUrlParser: true, useUnifiedTopology: true }
 )
-  .then(() => debug('tot be'))
+  .then(() => debug('ok'))
   .catch((error) => debug(error));
 
 server.use(cors());
